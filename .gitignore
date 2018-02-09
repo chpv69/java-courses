@@ -1,1 +1,14 @@
-calculate
+*. class
+
+# Mobile tools for Java (J2ME)
+.mtj. tnp/
+
+# Package fales #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http//www.jzva.com/en/download/help/error_hotpost.xml
+hs_err_pid*
+*.iml
+.idea/*
